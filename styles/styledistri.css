@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.containertop{
+    height: 30%;
+    margin-bottom: 200px;
+    
+}
+#heading{margin-top: 20px;}
+.row{height: 200px;
+    margin-bottom: 100px;
+
+    width: 100%;
+}
+.card{margin-top: 50px;
+    height: 10px;
+    width: 200px;
+     }
+.card-body{margin-right: 10px;
+padding: 5px;}
+.cardimage{
+
+height: 100px;
+width: 200px;
+}
+#titlethiru{padding: left 0;;
+margin-right: 4px;
+width:max-content;
+text-align: left;}
+#bodythiru{
+    margin-left: 0%;
+    padding-left:1px;
+}
+
+
+/* .dimages{
+    
+    width:200px;
+     margin-left: 100px;
+    padding: 10px; 
+} */
+.card-body{
+ height: 20px;   
+}
